@@ -5,7 +5,7 @@
 # The Art of Prompt Engineering
 ## _This project is a sign for me to learn about AI, that's why i must accomplished thy commandment o mighty one_
 
-### Author: @https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX0TGVEN+v1
+### Author: Cognitive Class AI
 
 ### Mentee assignment from IBM Advanced AI @ Infinite Learning Course completion of The Art of Prompt Engineering from CognitiveClass.ai
 
