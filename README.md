@@ -2,7 +2,8 @@
   <img src="https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif?cid=790b7611aqz38ga7ig3rybctu0d93jfcjyez9w9mzmy3pdob&ep=v1_gifs_search&rid=giphy.gif&ct=gf" width="300"/>
 </div>
 
-# The Art of Prompt Engineering
+# Natural Language Processing with Hugging Face Transformers
+
 ## _This project is a sign for me to learn about AI, that's why i must accomplished thy commandment o mighty one_
 
 ### Author: Cognitive Class AI
